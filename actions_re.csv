@@ -1,0 +1,107 @@
+id,action,,verb,noun
+0, Inspect/Read_recipe,,0,0
+1, Open_fridge,,1,1
+2, Take_eating:utensil,,2,2
+3, Cut_tomato,,3,3
+4, Turn on_faucet,,4,4
+5, Put_eating:utensil,,5,2
+6, Open_cabinet,,1,5
+7, Take_condiment:container,,2,6
+8, Cut_cucumber,,3,7
+9, Operate_stove,,6,8
+10, Close_fridge,,7,1
+11, Cut_carrot,,3,9
+12, Put_condiment:container,,5,6
+13, Cut_onion,,3,10
+14, Open_drawer,,1,11
+15, Take_plate,,2,12
+16, Take_bowl,,2,13
+17, Put_bowl,,5,13
+18, Put_trash,,5,14
+19, Put_plate,,5,12
+20, Cut_bell:pepper,,3,15
+21, Put_cooking:utensil,,5,16
+22, Take_paper:towel,,2,17
+23, Move Around_bacon,,8,18
+24, Open_condiment:container,,1,6
+25, Wash_eating:utensil,,9,2
+26, Spread_condiment,,10,19
+27, Turn off_faucet,,11,4
+28, Put_pan,,5,20
+29, Take_cooking:utensil,,2,16
+30, Put_lettuce,,5,21
+31, Move Around_patty,,8,22
+32, Put_pot,,5,23
+33, Close_cabinet,,7,5
+34, Put_bread,,5,24
+35, Take_bread,,2,24
+36, Close_condiment:container,,7,6
+37, Open_fridge:drawer,,1,25
+38, Wash_hand,,9,26
+39, Put_tomato,,5,3
+40, Take_seasoning:container,,2,27
+41, Take_cup,,2,28
+42, Divide/Pull Apart_lettuce,,12,21
+43, Put_cup,,5,28
+44, Take_pot,,2,23
+45, Clean/Wipe_counter,,13,29
+46, Take_bread:container,,2,30
+47, Take_tomato,,2,3
+48, Take_pan,,2,20
+49, Move Around_pan,,8,20
+50, Wash_cutting:board,,9,31
+51, Put_bread:container,,5,30
+52, Take_sponge,,2,32
+53, Take_lettuce,,2,21
+54, Take_onion,,2,10
+55, Put_sponge,,5,32
+56, Divide/Pull Apart_paper:towel,,12,17
+57, Open_dishwasher,,1,33
+58, Take_cheese:container,,2,34
+59, Take_oil:container,,2,35
+60, Put_seasoning:container,,5,27
+61, Take_cucumber,,2,7
+62, Wash_pan,,9,20
+63, Take_bell:pepper,,2,15
+64, Divide/Pull Apart_onion,,12,10
+65, Put_cutting:board,,5,31
+66, Mix_mixture,,14,36
+67, Take_tomato:container,,2,37
+68, Put_cheese,,5,38
+69, Move Around_eating:utensil,,8,2
+70, Put_bell:pepper,,5,15
+71, Pour_oil,,15,39
+72, Take_pasta:container,,2,40
+73, Cut_lettuce,,3,21
+74, Put_tomato:container,,5,37
+75, Wash_bowl,,9,13
+76, Cut_olive,,3,41
+77, Close_drawer,,7,11
+78, Pour_condiment,,15,19
+79, Wash_pot,,9,23
+80, Mix_pasta,,14,42
+81, Open_bread:container,,1,30
+82, Take_grocery:bag,,2,43
+83, Take_cheese,,2,38
+84, Pour_seasoning,,15,44
+85, Mix_egg,,14,45
+86, Pour_water,,15,46
+87, Put_paper:towel,,5,17
+88, Put_cucumber,,5,7
+89, Compress_sandwich,,16,47
+90, Put_cheese:container,,5,34
+91, Put_onion,,5,10
+92, Crack_egg,,17,45
+93, Take_cutting:board,,2,31
+94, Open_oil:container,,1,35
+95, Squeeze_washing:liquid,,18,48
+96, Operate_microwave,,6,49
+97, Close_fridge:drawer,,7,25
+98, Wash_strainer,,9,50
+99, Move Around_bowl,,8,13
+100, Move Around_pot,,8,23
+101, Put_grocery:bag,,5,43
+102, Take_egg,,2,45
+103, Open_cheese:container,,1,34
+104, Close_oil:container,,7,35
+105, Put_oil:container,,5,35
